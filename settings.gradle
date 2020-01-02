@@ -1,0 +1,2 @@
+include ':app', ':library_common'
+rootProject.name='Project_library_common'
